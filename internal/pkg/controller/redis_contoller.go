@@ -30,8 +30,11 @@ func RedisSetController() app.HandlerFunc {
 			Expire int    `json:"expire"`
 		}
 		var req RedisSetReq
-		err := ctx.Bind(&req)
-
+		var err = ctx.Bind(&req)
+		if err != nil {
+			ctx.JSON(consts.StatusOK, x.Fail("90400", err.Error()))
+			return
+		}
 		var hours = time.Duration(req.Expire)
 		foo, err := wcontext.Global().Redis().Set(c, req.Key, req.Val, hours).Result()
 		if err != nil {

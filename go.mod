@@ -4,9 +4,9 @@ go 1.18
 
 require (
 	github.com/cloudwego/hertz v0.6.0
-	github.com/weimob-tech/go-ability-sdk v0.0.0-20230330070032-dde3b822419f
-	github.com/weimob-tech/go-project-base v0.0.0-20230330065218-51c9a4de86ef
-	github.com/weimob-tech/go-project-boot v0.0.0-20230330070400-1b856212ad03
+	github.com/weimob-tech/go-ability-sdk v0.0.0-20230331092913-a4f9d8282b19
+	github.com/weimob-tech/go-project-base v0.0.0-20230331091325-ab23161af9f4
+	github.com/weimob-tech/go-project-boot v0.0.0-20230331092654-e5d3a30759ca
 	gorm.io/gorm v1.24.6
 )
 
@@ -29,11 +29,14 @@ require (
 	github.com/hertz-contrib/logger/zerolog v0.0.0-20230206071608-2de215a9fd50 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
+	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/cpuid/v2 v2.0.9 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.17 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
+	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
+	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/nyaruka/phonenumbers v1.0.55 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.6 // indirect
 	github.com/redis/go-redis/v9 v9.0.2 // indirect
