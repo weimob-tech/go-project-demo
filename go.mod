@@ -4,9 +4,9 @@ go 1.18
 
 require (
 	github.com/cloudwego/hertz v0.6.0
-	github.com/weimob-tech/go-ability-sdk v0.0.0-20230331092913-a4f9d8282b19
+	github.com/weimob-tech/go-ability-sdk v0.0.0-20230404105042-fb5d1e30cd13
 	github.com/weimob-tech/go-project-base v0.0.0-20230331091325-ab23161af9f4
-	github.com/weimob-tech/go-project-boot v0.0.0-20230331092654-e5d3a30759ca
+	github.com/weimob-tech/go-project-boot v0.0.0-20230404105025-ced56779565d
 	gorm.io/gorm v1.24.6
 )
 

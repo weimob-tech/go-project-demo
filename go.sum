@@ -365,6 +365,8 @@ github.com/weimob-tech/go-ability-sdk v0.0.0-20230330070032-dde3b822419f h1:AFNv
 github.com/weimob-tech/go-ability-sdk v0.0.0-20230330070032-dde3b822419f/go.mod h1:PzpupymIWjH4fhtsshD7Fyiw7gRWGrR9LFuenftdKUQ=
 github.com/weimob-tech/go-ability-sdk v0.0.0-20230331092913-a4f9d8282b19 h1:AD3FIDP5y1zL4WVJQLOOTqogTpZpDEe986UBmjBHHh8=
 github.com/weimob-tech/go-ability-sdk v0.0.0-20230331092913-a4f9d8282b19/go.mod h1:0lsXWjIv82gHJWEg5oCdVTfb8NrdZNfappSdCbEIaR0=
+github.com/weimob-tech/go-ability-sdk v0.0.0-20230404105042-fb5d1e30cd13 h1:UIDK/4SrZJIDi2ZLO+VBMkJONHy4yXD8Gj1TGvU+IyQ=
+github.com/weimob-tech/go-ability-sdk v0.0.0-20230404105042-fb5d1e30cd13/go.mod h1:0lsXWjIv82gHJWEg5oCdVTfb8NrdZNfappSdCbEIaR0=
 github.com/weimob-tech/go-project-base v0.0.0-20230330065218-51c9a4de86ef h1:xvNdk3idCzzIzrc/q6gS9JBd0H4pHft9sWEm+OetTEI=
 github.com/weimob-tech/go-project-base v0.0.0-20230330065218-51c9a4de86ef/go.mod h1:VwOcxZJgqvjidGISxdIpFOrbCDJeix9oxqJnSo67WF4=
 github.com/weimob-tech/go-project-base v0.0.0-20230331091325-ab23161af9f4 h1:7emiC8uVU9OFmsyix1sAdKYwVBT6w3w8Vq0tkV/MGv4=
@@ -373,6 +375,8 @@ github.com/weimob-tech/go-project-boot v0.0.0-20230330070400-1b856212ad03 h1:R1i
 github.com/weimob-tech/go-project-boot v0.0.0-20230330070400-1b856212ad03/go.mod h1:j8eBQ+b2uaDKAs7mmYMrNKxYgIxB9sBrPpbA3eI58sE=
 github.com/weimob-tech/go-project-boot v0.0.0-20230331092654-e5d3a30759ca h1:Bxk2YmCVAsEbyi/VHukJ8R2FNdcfmhWyAaICCARjvNQ=
 github.com/weimob-tech/go-project-boot v0.0.0-20230331092654-e5d3a30759ca/go.mod h1:vXRkzYItDAguPNmwlomS3TO5CukN8ui+gp6A12ddb94=
+github.com/weimob-tech/go-project-boot v0.0.0-20230404105025-ced56779565d h1:ftUNvmDuL+g1i4GT6hQk5lJh3mMhkAQmwmQPBScPVpQ=
+github.com/weimob-tech/go-project-boot v0.0.0-20230404105025-ced56779565d/go.mod h1:vXRkzYItDAguPNmwlomS3TO5CukN8ui+gp6A12ddb94=
 github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2/go.mod h1:UETIi67q53MR2AWcXfiuqkDkRtnGDLqkBTpCHuJHxtU=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
